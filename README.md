@@ -5,7 +5,7 @@ This project displays a basketball player's information using a React component.
 ## Installation
 
 1.Clone the repository:
-   git clone [repository-url]
+   git clone (https://github.com/asifiliyas/Asif_iliyas_ReactAssessment)
 
 2.Navigate to the project directory:
 Copy code
@@ -27,6 +27,9 @@ Component Details
 Component Name: BasketballPlayerCard
 Props:
 name (string): The player's name.
+
 image (string): URL to the player's image.
+
 position (string): The player's position.
+
 stats (object): The player's stats (pointsPerGame, assistsPerGame, reboundsPerGame).
